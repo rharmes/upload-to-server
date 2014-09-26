@@ -1,0 +1,6 @@
+{
+    "local_directory": "/some/local/path/project/",
+    "host": "www.asdfasldfkjhasldfkjhaslfdhadlkjfalhsflasdjfkahsldkjfhalsdkjfh.com",
+    "remote_directory": "/some/remote/path/project/",
+    "path_to_scp": "/usr/bin/scp"
+}
